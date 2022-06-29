@@ -1,0 +1,37 @@
+div{
+    text-align: center;
+}
+
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 10px;
+}
+
+.prikazUl li{
+    border: solid black 1px;
+}
+
+li:visited{
+    color: black;
+}
+
+li:active{
+    color: black;
+}
+
+span:hover {
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+span{
+    text-decoration: none;
+    color: black;
+}
+
+li:hover {
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,24 @@
+
+.btn{
+    width: 100%;
+    text-align: center;
+}
+
+.btn ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 4em;
+}
+
+.btn1{
+    background-color: white;
+    margin: 5px;
+    border: solid black 1px;
+    transition-duration: 0.5s;
+    
+}
+
+.btn1:hover{
+    background-color: rgb(139, 139, 139);
+    color: white;
+}
